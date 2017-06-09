@@ -1,0 +1,14 @@
+{
+  "name": "cesium-bower",
+  "version": "1.18.3-beta4",
+  "description": "Cesium JS",
+  "main": "Cesium.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelittleg/cesium-bower.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thelittleg/cesium-bower/issues"
+  },
+  "homepage": "https://github.com/thelittleg/cesium-bower#readme"
+}
